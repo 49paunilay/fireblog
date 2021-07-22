@@ -1,0 +1,12 @@
+.comments{
+    width: 100%;
+    padding:25px;
+    border-width: 1px;
+    border-color: skyblue;
+    border-radius: 100px;
+    border-style: dotted;
+}
+.blog_comments{
+    padding: 15px;
+    font-size: 8px;
+}

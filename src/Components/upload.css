@@ -1,0 +1,28 @@
+.text-holder{
+    margin: 25px;
+    padding: 25px;
+}
+.upload-div{
+   
+    height: 100vh;
+    padding: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.upload_button{
+    padding: 25px;
+    background-color: green;
+    border-radius: 50px;
+}
+.upload_button>input{
+    background-color: green;
+}
+.upload{
+    padding: 15px;
+    background-color: aquamarine;
+    border-radius: 50px;
+    border-color: wheat;
+    border-width: 2px;
+}
